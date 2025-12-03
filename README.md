@@ -1,6 +1,7 @@
 # IAT-806
 TouchDesigner and supporting files for IAT 806 project
 
-This TouchDesigner project is using build 2025.30442.
+This TouchDesigner project is using build 2025.31740
 
-As this project uses a live camera feed, please select you preffered camer option at the project1/cam_block level using the Video Device In TOP labeled cam_in. Resolution is capped at 1280 x 720. Please adjust your web camera accordingly.
+As this project uses a live camera feed by default, please select you prefered camera option at the project1/cam_block level using the Video Device In TOP labeled cam_in. Resolution is capped at 1280 x 720. Please adjust your web camera accordingly. Source material may also be a prerecorded video.
+To move between project layers press u for up or i for in on Base and Container COMPs
